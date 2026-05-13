@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-with open('watch-history.json', 'r') as f:
+with open('samplewatch-history.json', 'r') as f:
     data = json.load(f)
 
 df = pd.DataFrame(data)
