@@ -1,0 +1,56 @@
+[
+  {
+    "header": "YouTube",
+    "title": "Watched How HTTPS Works in 5 Minutes",
+    "titleUrl": "https://www.youtube.com/watch?v=example1",
+    "subtitles": [
+      {
+        "name": "Tech With Tim",
+        "url": "https://www.youtube.com/@TechWithTim"
+      }
+    ],
+    "time": "2026-05-13T10:15:32.000Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube watch history"
+    ]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched Python JSON Tutorial",
+    "titleUrl": "https://www.youtube.com/watch?v=example2",
+    "subtitles": [
+      {
+        "name": "ProgrammingKnowledge",
+        "url": "https://www.youtube.com/@ProgrammingKnowledge"
+      }
+    ],
+    "time": "2026-05-13T12:40:10.000Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube watch history"
+    ]
+  },
+  {
+    "header": "YouTube",
+    "title": "Watched Linux Commands for Beginners",
+    "titleUrl": "https://www.youtube.com/watch?v=example3",
+    "subtitles": [
+      {
+        "name": "freeCodeCamp.org",
+        "url": "https://www.youtube.com/@freecodecamp"
+      }
+    ],
+    "time": "2026-05-13T15:05:45.000Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube watch history"
+    ]
+  }
+]
