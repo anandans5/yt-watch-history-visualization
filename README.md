@@ -1,4 +1,4 @@
-# YouTube Watch Habits: Behavioral Analysis & Privacy-First Data Engineering
+# YouTube Watch Habits: Behavioral Analysis Data Engineering
 
 ## 📌 Project Overview
 This project serves as an exploratory data analysis (EDA) of personal digital footprints using YouTube Watch History. As a student specializing in **Data Science and Cybersecurity**, I developed this tool to transform raw, semi-structured JSON exports from Google Takeout into actionable behavioral insights.
@@ -11,11 +11,6 @@ The core objective is to identify consumption patterns while maintaining a high 
 *   **Visualization:** `matplotlib` (for temporal distribution analysis)
 *   **System Integration:** `json`, `datetime`
 
-## 🔒 Security & Data Privacy (The Cybersecurity Angle)
-In alignment with the principle of **Data Minimization**, this repository is designed to be data-agnostic:
-*   **PII Protection:** All Personally Identifiable Information (PII) is kept strictly local.
-*   **Automation:** A `.gitignore` policy is enforced to prevent the accidental leakage of `watch-history.json` to public version control.
-*   **Risk Mitigation:** The analysis focuses on aggregate trends (times, frequencies) rather than individual sensitive content metadata.
 
 ## 🚀 Getting Started
 
